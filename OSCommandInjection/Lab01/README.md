@@ -74,7 +74,7 @@ Fist we need to add the following code beside te parameter __productId=1__ , __p
 
 ![Applications](images/repeater01.png)
 
-we can see the reponse and heeey perfect it is working 
+we can see the response and heeey perfect it is working 
 
 ![Applications](images/repeater03.png)
 
