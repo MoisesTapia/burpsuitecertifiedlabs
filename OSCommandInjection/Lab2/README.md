@@ -62,7 +62,7 @@ Once in the request we gonna modify the parameters
 
 ![form](img/data01_request.png)
 
-first of all we need encode the following characters __||__to put into the __email__ parameters.
+first of all we need encode the following characters __||__ to put into the __email__ parameters.
 
 To do this we press in the tab Decoder
 write __||__ and in the bar press __encode as__ __url__ 
